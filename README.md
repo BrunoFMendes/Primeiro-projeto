@@ -1,2 +1,2 @@
 # Primeiro-projeto
- Aprendo Git
+ Aprendo Git com o curso em video 
